@@ -1,10 +1,5 @@
 # Riot League of Legends Client
 # Riot League of Legends Client
-# Riot League of Legends Client
-# Riot League of Legends Client
-# Riot League of Legends Client
-# Riot League of Legends Client
-# Riot League of Legends Client
 payload:
   - PROCESS-NAME,BugReport.exe
   - PROCESS-NAME,qbclient.exe
@@ -22,11 +17,13 @@ payload:
   - PROCESS-NAME,assistant.exe
   - PROCESS-NAME,backgrounddownloader.exe
   - PROCESS-NAME,bugreport.exe
-  - PROCESS-NAME,Client.exe
+  - PROCESS-NAME,client.exe
   - PROCESS-NAME,Repair.exe
   - PROCESS-NAME,TP3Helper.exe
   - PROCESS-NAME,TPSvc.exe
   - PROCESS-NAME,WGTinyDL.exe
+  - PROCESS-NAME,RiotClientCrashHandler.exe
+  - PROCESS-NAME,RiotClientServices.exe
   - PROCESS-NAME,SGuard64.exe
   - PROCESS-NAME,SGuardSvc64.exe
   - PROCESS-NAME,SGuardUpdate64.exe
@@ -47,6 +44,19 @@ payload:
   - PROCESS-NAME,LeagueClientUx.exe
   - PROCESS-NAME,LeagueClientUxRender.exe
   - PROCESS-NAME,LeagueCrashHandler.exe
+  - PROCESS-NAME,ACE-Helper.exe
+  - PROCESS-NAME,SGuard64.exe
+  - PROCESS-NAME,SGuardSvc64.exe
+  - PROCESS-NAME,SGuardUpdate64.exe
+  - PROCESS-NAME,Uninstall64.exe
+  - PROCESS-NAME,SGuard32.exe
+  - PROCESS-NAME,SGuardSvc32.exe
+  - PROCESS-NAME,SGuardUpdate32.exe
+  - PROCESS-NAME,Uninstall32.exe
+  - PROCESS-NAME,ACE-Helper.exe
+  - PROCESS-NAME,League of Legends.exe
+  - PROCESS-NAME,LeagueCrashHandler.exe
+  - PROCESS-NAME,LeagueCrashHandler64.exe
   - PROCESS-NAME,broadcasting.exe
   - PROCESS-NAME,bugreport.exe
   - PROCESS-NAME,CrossSSOHolder.exe
