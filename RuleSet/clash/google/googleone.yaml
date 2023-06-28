@@ -1,1 +1,10 @@
-
+playload:
+  # Google One
+  - DOMAIN-SUFFIX,cloud.cupronickel.goog,PROXY
+  - DOMAIN,subscriptionsmobile-pa.googleapis.com,PROXY
+  - DOMAIN,subscriptionsmanagement-pa.googleapis.com,PROXY
+  - DOMAIN,scone-pa.googleapis.com,PROXY
+  - DOMAIN,phosphor-pa.googleapis.com,PROXY
+  - DOMAIN,play-fe.googleapis.com,PROXY
+  - DOMAIN,connectivitycheck.gstatic.com,PROXY
+  - DOMAIN,www.googleapis.com,PROXY
