@@ -1,4 +1,4 @@
-playload:
+payload:
   # Google One
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN,subscriptionsmobile-pa.googleapis.com
